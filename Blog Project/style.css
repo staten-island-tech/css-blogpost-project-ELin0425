@@ -1,0 +1,37 @@
+.body {
+  font-family: "Libre Franklin", sans-serif;
+}
+.top-header {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.title {
+  text-align: center;
+}
+.descrip {
+  text-align: center;
+}
+.link {
+  text-align: center;
+  font-style: italic;
+  font-size: small;
+}
+.pic1 {
+  text-align: center;
+}
+.pic2 {
+  text-align: center;
+}
+.pic3 {
+  text-align: center;
+}
+.blog1 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.blog2 {
+  padding-bottom: 40px;
+}
+.blog3 {
+  padding-bottom: 50px;
+}
