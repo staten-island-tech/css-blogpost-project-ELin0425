@@ -1,4 +1,4 @@
-.body {
+.body1 {
   font-family: "Libre Franklin", sans-serif;
 }
 .top-header {
@@ -10,21 +10,18 @@
 }
 .descrip {
   text-align: center;
+  margin-left: 400px;
+  margin-right: 400px;
 }
 .link {
   text-align: center;
   font-style: italic;
   font-size: small;
 }
-.pic1 {
+.pic {
   text-align: center;
 }
-.pic2 {
-  text-align: center;
-}
-.pic3 {
-  text-align: center;
-}
+
 .blog1 {
   padding-top: 40px;
   padding-bottom: 40px;
