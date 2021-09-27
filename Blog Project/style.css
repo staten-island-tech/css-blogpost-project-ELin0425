@@ -1,3 +1,8 @@
+body {
+  background-color: #5b84b1ff;
+}
+.whole {
+}
 .body1 {
   font-family: "Libre Franklin", sans-serif;
 }
@@ -6,29 +11,39 @@
   padding-bottom: 10px;
 }
 .title {
-  text-align: center;
 }
 .descrip {
-  text-align: center;
-  margin-left: 400px;
-  margin-right: 400px;
 }
 .link {
-  text-align: center;
   font-style: italic;
   font-size: small;
 }
-.pic {
+.blog {
+  padding-bottom: 40px;
+  width: 600px;
+  border-style: double;
+  border-color: brown;
+  margin-top: 50px;
+  background-color: #fc766aff;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-.blog1 {
-  padding-top: 40px;
-  padding-bottom: 40px;
+.pics2 {
+  background-image: url(pics/csgo.jpg);
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
-.blog2 {
-  padding-bottom: 40px;
+.pics {
+  background-image: url(pics/fornite.jpg.jpg);
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
-.blog3 {
-  padding-bottom: 50px;
+.pics3 {
+  background-image: url(pics/overwatch.jpg);
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
